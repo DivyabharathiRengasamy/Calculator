@@ -45,6 +45,6 @@ public class Calculator {
                 System.out.println("Invalid operator!");
         }
 
-        scanner.close();
+    
     }
 }
